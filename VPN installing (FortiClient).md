@@ -8,4 +8,5 @@
      ``` sudo dpkg -i forticlient_7.4.3.1736-2_amd64.deb ```
    - and now you successfully install the vpn client
 3. and now the time is to configure the client for this you need to fill this information ![image](https://github.com/user-attachments/assets/5707d0dd-34e7-4e49-a65d-f30fd3ee3d5e)
-4. and after you have to connect using the username and password 
+4 
+ 
